@@ -1,0 +1,16 @@
+{
+  "name": "invocation-framework",
+  "version": "1.0.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex20465/invocation-framework"
+  },
+  "keywords": [],
+  "author": "Alexandros <alexandros@headinbeds.com>",
+  "bugs": {
+    "url": "https://github.com/alex20465/invocation-framework/issues"
+  },
+  "dependencies": {
+  }
+}
